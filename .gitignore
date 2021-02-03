@@ -1,0 +1,10 @@
+**/.DS_Store
+*.o
+*.tmp
+*.d
+*.swp
+*.ko
+*.cmd
+*.a
+*~
+*.sw*
